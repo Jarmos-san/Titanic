@@ -1,4 +1,4 @@
-# Titanic: Machine Learning From Disaster | Kaggle
+# [Titanic: Machine Learning From Disaster | Kaggle](https://www.kaggle.com/c/titanic)
 
 The infamous Titanic competition from Kaggle. **VERY** begiiner friendly & is the perfect competition to start out with on Kaggle competitions.
 
