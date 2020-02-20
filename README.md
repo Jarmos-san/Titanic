@@ -13,6 +13,8 @@ Key takeaways from this competition are:
 
 It's a beginner friendly project for anyone starting out with trying to learn Data Science. The repository contains Jupyter Notebooks which can be opened on [Google Colab](https://colab.research.google.com) for easy & quick access. On a side note, the notebooks are also available as read-only through [GitHub's nbviewer](https://nbviewer.jupyter.org/) capabilities.
 
+Besides, it should also be noted that the project was done keeping in mind a beginner who has very less prior programming knowledge using Python. Hence, the notebooks are perfect resources for someone like that since in between snippets of codes, notes or findings can also be written in Markdown which is extremely convenient. But, regardless, comments have been used generously and the [PEP-8](https://www.python.org/dev/peps/pep-0008/) style guidelines have also been kept in mind to as much of an extent as possible.
+
 ## How to Utilize the Repo?
 
 ***Recommended***
